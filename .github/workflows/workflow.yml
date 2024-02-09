@@ -1,6 +1,6 @@
 name: Deploy Database Changes with schemachange
 
-# Trigger the workflow on push events to the main branch, for changes in the migrations directory
+# Triggers the workflow on push events to the main branch, for changes in the migrations directory
 on:
   push:
     branches:
